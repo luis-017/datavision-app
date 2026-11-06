@@ -1,0 +1,10 @@
+
+{
+  "name": "datavision-app",
+  "version": "1.0.0",
+  "description": "Aplicacion de prueba AWS SENATI",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
